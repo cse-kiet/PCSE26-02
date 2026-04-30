@@ -16,9 +16,9 @@
 *An end-to-end automated system for vulnerability detection, clause classification, and risk assessment in legal documents — designed to empower non-legal users with clear, actionable insights.*
 
 </div>
-## 🌐 Live Project
+🌐 Live Project
 
-👉 [Visit LegalEase](https://legalease-ecru.vercel.app/)
+ [LegalEase](https://legalease-ecru.vercel.app/)
 
 ---
 
