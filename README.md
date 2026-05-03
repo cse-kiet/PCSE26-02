@@ -435,6 +435,4 @@ This project was developed as a Final Year University Project by:
 
 **LegalEase** — *Making legal documents accessible to everyone.*
 
-Made with ❤️ as a Final Year University Project
-
 </div>
